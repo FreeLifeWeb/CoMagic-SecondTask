@@ -1,0 +1,14 @@
+.gridStyle {
+    width: calc(33.33%);
+    text-align: center;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerStyle {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

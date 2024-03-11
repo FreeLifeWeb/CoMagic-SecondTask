@@ -1,0 +1,23 @@
+.messageContainer {
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    height: 300px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.message {
+    background-color: #94f19f;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.sender {
+    font-weight: bold;
+    margin-right: 5px;
+}

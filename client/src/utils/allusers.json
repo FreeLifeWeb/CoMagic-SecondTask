@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "born": "1922",
+        "workplace": "Frontend Studio",
+        "education": "Bachelor's Degree in Computer Science",
+        "maritalStatus": "Married",
+        "address": "123 Main Street, Denver, USA"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "born": "1985",
+        "workplace": "Software Company",
+        "education": "Master's Degree in Computer Engineering",
+        "maritalStatus": "Single",
+        "address": "456 Oak Avenue, New York, USA"
+    },
+    {       
+        "id": 3,
+        "name": "Michael Johnson",
+        "email": "michael.johnson@example.com",
+        "born": "1978",
+        "workplace": "Tech Startup",
+        "education": "PhD in Artificial Intelligence",
+        "maritalStatus": "Divorced",
+        "address": "789 Elm Street, Los Angeles, USA"
+    },
+    {
+        "id": 4,
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "born": "1992",
+        "workplace": "Design Agency",
+        "education": "Bachelor's Degree in Graphic Design",
+        "maritalStatus": "Married",
+        "address": "101 Pine Road, Chicago, USA"
+    },
+    {
+        "id": 5,
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "born": "1980",
+        "workplace": "Marketing Firm",
+        "education": "Bachelor's Degree in Marketing",
+        "maritalStatus": "Single",
+        "address": "222 Maple Avenue, San Francisco, USA"
+    },
+    {
+        "id": 6,
+        "name": "Emma Taylor",
+        "email": "emma.taylor@example.com",
+        "born": "1995",
+        "workplace": "Financial Institution",
+        "education": "Master's Degree in Economics",
+        "maritalStatus": "Married",
+        "address": "333 Cedar Street, Seattle, USA"
+    },
+    {
+        "id": 7,
+        "name": "Daniel Martinez",
+        "email": "daniel.martinez@example.com",
+        "born": "1987",
+        "workplace": "Law Firm",
+        "education": "Juris Doctor",
+        "maritalStatus": "Single",
+        "address": "444 Birch Lane, Miami, USA"
+    },
+    {
+        "id": 8,
+        "name": "Olivia Garcia",
+        "email": "olivia.garcia@example.com",
+        "born": "1990",
+        "workplace": "Hospital",
+        "education": "Doctor of Medicine",
+        "maritalStatus": "Married",
+        "address": "555 Spruce Street, Houston, USA"
+    },
+    {
+        "id": 9,
+        "name": "Ethan Rodriguez",
+        "email": "ethan.rodriguez@example.com",
+        "born": "1983",
+        "workplace": "Construction Company",
+        "education": "Bachelor's Degree in Civil Engineering",
+        "maritalStatus": "Divorced",
+        "address": "666 Elmwood Drive, Boston, USA"
+    },
+    {
+        "id": 10,
+        "name": "Sophia Hernandez",
+        "email": "sophia.hernandez@example.com",
+        "born": "1975",
+        "workplace": "Consulting Firm",
+        "education": "Master's Degree in Business Administration",
+        "maritalStatus": "Widowed",
+        "address": "777 Willow Lane, Dallas, USA"
+    }
+]
